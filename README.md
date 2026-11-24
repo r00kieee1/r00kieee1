@@ -1,14 +1,13 @@
 # Hi, I'm Abdulmujeeb 👋
 
-Full-stack developer at Hooli TNL in Kano, Nigeria, and an Information Technology undergraduate at Bayero University Kano. I work across the stack on production web apps: front end, API, and the occasional Android build.
+Mid-level full-stack developer at Hooli TNL in Kano, Nigeria, and an Information Technology undergraduate at Bayero University Kano. I work across the stack on production web apps: front end, API, and the occasional Android build.
 
 ## Recent work
 
-Most of what I do is client work in private repositories, so the contribution graph says more than the pinned repos do.
+Most of what I do is client work at Hooli TNL, in private repositories, so the contribution graph says more than the pinned repos do.
 
 - **Restaurant and hotel point of sale** — full-stack developer on the team behind [Serfora](https://serfora.com). Role-based access across the app, card-terminal payments and refunds, daily sales reports by email, and receipt printing on Android terminals. *Next.js, NestJS, MongoDB, Capacitor*
-- **University learning management system** — four portals (student, lecturer, super-lecturer, admin) on a microservices backend, with secure sign-in, grading, and transcript PDFs. *Next.js, NestJS, MongoDB, Redis, AWS S3*
-- **E-commerce fulfillment** — features across the interface and the REST API. *Vue.js, TypeScript*
+- **E-commerce fulfillment** — developer on [Filarra](https://filarra.com), with features across the interface and the REST API. *Vue.js, TypeScript*
 - **School management** — a personal project for recording marks, ranking classes, and printing report cards, with data kept in the browser. *Vue 3, Vite, Dexie, Vitest*
 
 ## Stack
