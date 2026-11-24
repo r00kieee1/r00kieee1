@@ -1,23 +1,15 @@
 # Hi, I'm Abdulmujeeb 👋
 
-Full-stack developer based in Kano, Nigeria, and an Information Technology undergraduate at Bayero University Kano.
+Full-stack developer at Hooli TNL in Kano, Nigeria, and an Information Technology undergraduate at Bayero University Kano. I work across the stack on production web apps: front end, API, and the occasional Android build.
 
-## What I'm building
+## Recent work
 
-**[Serfora](https://serfora.com)** — a multi-tenant inventory and point-of-sale platform for restaurants and hotels. I work across the whole product:
+Most of what I do is client work in private repositories, so the contribution graph says more than the pinned repos do.
 
-- **Web app** (Next.js, React): orders, kitchen and bar, tables, inventory, menus and payments, with role-based access on every page
-- **API** (NestJS, MongoDB): card-terminal payments and refunds, Pay Later with a per-customer debt book, and daily sales reports emailed in each business's own timezone
-- **Android terminal app** (Capacitor, Kotlin): receipts printed on the terminal's built-in thermal printer
-- **Marketing site** (Next.js, Payload CMS): pages, blog and pricing editable with drafts and version history
-
-Most of this work lives in private repositories, so the contribution graph says more than the pinned repos do.
-
-## Before that
-
-- **Mabul** — a university learning management system: four Next.js portals on a NestJS microservices backend
-- **Filarra** — e-commerce fulfillment, Vue.js frontend and TypeScript backend
-- **Hooli TNL** — software engineering intern since 2022
+- **Restaurant and hotel point of sale** — full-stack developer on the team behind [Serfora](https://serfora.com). Role-based access across the app, card-terminal payments and refunds, daily sales reports by email, and receipt printing on Android terminals. *Next.js, NestJS, MongoDB, Capacitor*
+- **University learning management system** — four portals (student, lecturer, super-lecturer, admin) on a microservices backend, with secure sign-in, grading, and transcript PDFs. *Next.js, NestJS, MongoDB, Redis, AWS S3*
+- **E-commerce fulfillment** — features across the interface and the REST API. *Vue.js, TypeScript*
+- **School management** — a personal project for recording marks, ranking classes, and printing report cards, with data kept in the browser. *Vue 3, Vite, Dexie, Vitest*
 
 ## Stack
 
